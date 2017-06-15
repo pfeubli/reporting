@@ -1,0 +1,11 @@
+"articles","prices"
+"article1",2.5
+"article2",11.95
+"article3",38.2
+"article4",5.6
+"article5",1.45
+"article6",6.5
+"article7",15.85
+"article8",1.35
+"article9",3.1
+"article10",7.15
